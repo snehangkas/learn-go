@@ -1,6 +1,6 @@
 # Learning Resources Study Plan
 
-## 1. System Design (Duration: Not specified)
+## 1. System Design (Duration: Everyday)
 
 ### Resources:
 - **GitHub Repository**: Ashish Pratap Singh - [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
