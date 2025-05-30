@@ -175,7 +175,7 @@
 ### GitHub & CI/CD (Duration: 3 days)
 - **Git Cheat Sheet**: [GitHub Education PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - **GitHub Actions**: [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=CP130525)
-
+- **ArgoCD**: [ArgoCD](https://www.udemy.com/course/mastering-gitops-with-argo-cd) 
 ### Azure DevOps (Duration: 1 week)
 - **Azure Devops**: [Azure DevOps examples](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?couponCode=LEARNNOWPLANS#instructor-1)
 - **YouTube Series**: [Azure DevOps Tutorial](https://www.youtube.com/watch?v=R74bm8IGu2M&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
