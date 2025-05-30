@@ -177,7 +177,7 @@
 - **GitHub Actions**: [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=CP130525)
 
 ### Azure DevOps (Duration: 1 week)
-- **Azure Fundamentals**: [Azure 100](https://www.udemy.com/course/azure100/?couponCode=LEARNNOWPLANS)
+- **Azure Devops**: [Azure DevOps examples](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?couponCode=LEARNNOWPLANS#instructor-1)
 - **YouTube Series**: [Azure DevOps Tutorial](https://www.youtube.com/watch?v=R74bm8IGu2M&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 
 ---
