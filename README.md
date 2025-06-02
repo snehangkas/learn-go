@@ -19,14 +19,11 @@
 - **Spring Boot**: [Spring Boot Course](https://marcelclasses.udemy.com/course/spring_boot/)
 - **Performance**: [Java Application Performance and Memory Management](https://www.udemy.com/course/java-application-performance-and-memory-management)
 - **Concurrency**: [Multithreading and Parallel Computing in Java](https://www.udemy.com/course/multithreading-and-parallel-computing-in-java/?couponCode=ST21MT61124)
-- **Reactive Programming**: [Complete Java Reactive Programming](https://www.udemy.com/course/complete-java-reactive-programming/?couponCode=ST21MT121624)
-- **Advanced Java**: [Java In-Depth - Complete Java Engineer](https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/?couponCode=ST18MT12125)
 
 ### Microservices & Spring Ecosystem:
 - **Microservices**: [Master Microservices with Spring Docker Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
 - **Spring Security**: [Spring Security Zero to Master](https://www.udemy.com/course/spring-security-zero-to-master/)
-- **Spring 5**: [Spring 5 with Spring Boot 2](https://www.udemy.com/course/spring-5-with-spring-boot-2/?couponCode=LEARNNOWPLANS)
-- **Microservice Patterns**: [Microservice Pattern Architecture Java Spring Cloud Boot](https://www.udemy.com/course/microservice-pattern-architecture-java-spring-cloud-boot/?couponCode=LEARNNOWPLANS)
+-
 
 ### APIs & Integration:
 - **Kafka**: [Apache Kafka with Java Spring Boot](https://www.udemy.com/course/apache-kafka-with-java-spring-boot-theory-hands-on-coding/?couponCode=LEARNNOWPLANS)
