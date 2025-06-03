@@ -33,10 +33,6 @@
 - **GraphQL**: [Code GraphQL Application with Java Spring Boot Netflix DGS](https://www.udemy.com/course/code-graphql-application-with-java-spring-boot-netflix-dgs/?couponCode=LEARNNOWPLANS)
 - **API Management**: [REST API Management Monitoring Analytics Kong](https://www.udemy.com/course/rest-api-management-monitoring-analytics-kong-open-source/?couponCode=LEARNNOWPLANS)
 
-### Spring Security Project:
-- **Local Project**: C:\Users\snesamad\userservice
-- **Annotations Reference**: [Claude.ai Chat Link](https://claude.ai/chat/cf82afc6-e8c1-4479-9ac7-6e27957a2d11)
-
 ### Interview Preparation:
 - **Java Spring Boot Interview Kit**: [HungryCoders Path](https://www.hungrycoders.com/path-player?courseid=java-spring-boot-interview-kit-behavioral-strategies&unit=6696684e5950f7bc6e00b4b6Unit)
 
