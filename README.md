@@ -13,7 +13,7 @@
 
 ---
 
-## 2. Backend Development (Duration: 3 months - Thursday start)
+## 2. Backend Development 
 
 ### Java & Spring Boot:
 - **Core Java**: [Java Basics to Advanced](https://marcelclasses.udemy.com/course/java_basics_to_advanced/)
@@ -59,7 +59,7 @@
 
 ---
 
-## 3. Data and Database (Duration: 4 months)
+## 3. Data and Database 
 
 ### Database Fundamentals:
 - **Hussein Nasser**: Fundamentals of Database
@@ -90,10 +90,10 @@
 
 ## 4. Cloud & DevOps
 
-### 4a. Cloud - AWS (Duration: 3 months)
+### 4a. Cloud - AWS 
 - **Platform**: Amazon Web Services
 
-### 4b. Container Orchestration & Service Mesh (Duration: 3 months)
+### 4b. Container Orchestration & Service Mesh 
 **Technologies**: Kubernetes, Helm, KEDA, Istio, Jaeger, Kiali, Grafana, Prometheus, ArgoCD
 
 #### Docker:
@@ -109,18 +109,16 @@
 
 #### Service Mesh:
 - **Istio**: [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
-- **Book**: Istio in Action
-- **Instructor**: Timotius Pamungkas
 
 ---
 
 ## 5. System Fundamentals
 
-### 5a. Operating Systems (Duration: Not specified)
+### 5a. Operating Systems 
 - **Hussein Nasser**: OS Fundamentals
 - **Book**: Galvin (Operating System Concepts)
 
-### 5b. Networking (Duration: Not specified)
+### 5b. Networking 
 - **Hussein Nasser**: Networking Fundamentals
 - **Book**: Top-Down Approach (Chapters 2, 3, 4, 5, and 8)
 - **YouTube Channel**: Gate Smashers
@@ -140,15 +138,6 @@
 
 ## 7. Quick Learning Modules
 
-### Python (Duration: 5 days)
-- **Core Python**: [Python Core and Advanced](https://www.udemy.com/course/python-core-and-advanced/?couponCode=ST15MT20425G3)
-- **FastAPI**: [FastAPI - The Complete Course](https://www.udemy.com/course/fastapi-the-complete-course/?couponCode=ST15MT20425G3)
-
-### Docker (Duration: 1 day)
-- **YouTube Videos**:
-  - [Docker Tutorial 1](https://www.youtube.com/watch?v=pg19Z8LL06w)
-  - [Docker Tutorial 2](https://www.youtube.com/watch?v=OU6xOM0SE4o)
-
 ### Microservice Patterns (Duration: 1 day)
 - **ChatGPT Discussion**: [Microservice Patterns](https://chatgpt.com/c/67dfeb11-e9c4-8006-ac6c-b2651dc61638)
 - **Microsoft Documentation**: [Azure Architecture Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
@@ -162,9 +151,6 @@
   - [Course 2](https://www.udemy.com/course/model-context-protocol/?couponCode=ST19MT280525G3)
 - **FastMCP**: Framework for Model Context Protocol
 
-### Kubernetes Deep Dive (Duration: 2 weeks)
-- **Learn Kubernetes**: [Learn Kubernetes](https://www.udemy.com/course/learn-kubernetes/?couponCode=CP130525)
-- **CKAD Certification**: [Certified Kubernetes Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/?couponCode=CP130525)
 
 ### GitHub & CI/CD (Duration: 3 days)
 - **Git Cheat Sheet**: [GitHub Education PDF](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -207,19 +193,3 @@
 
 ---
 
-## Summary by Duration:
-
-- **Backend Development**: 3 months
-- **Data and Database**: 4 months  
-- **Cloud (AWS)**: 3 months
-- **Kubernetes & Service Mesh**: 3 months
-- **Data Structures & Algorithms**: 3 months
-- **Python**: 5 days
-- **Docker**: 1 day
-- **Microservice Patterns**: 1 day
-- **Generative AI**: 1 week
-- **Kubernetes Deep Dive**: 2 weeks
-- **GitHub & CI/CD**: 3 days
-- **Azure DevOps**: 1 week
-
-**Total Estimated Duration**: ~16 months (excluding short modules)
