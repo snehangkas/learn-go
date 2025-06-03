@@ -9,6 +9,7 @@
   - Building Secure and Reliable Systems
   - Design Data Intensive Applications
   - Alex Xu Book
+  - Hello Interview Youtube
 
 ---
 
