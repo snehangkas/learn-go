@@ -47,6 +47,7 @@
 - **Performance**: [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#pprof)
 - **Practical Go**: [Dave Cheney's Practical Go](https://dave.cheney.net/practical-go)
 - **Backend Engineering**: [Backend Engineering with Go](https://www.udemy.com/course/backend-engineering-with-go/)
+- **Advanced Go**: [Go advanced](https://www.udemy.com/course/gobootcampwithgrpcandprotocolbuffers/)
 - **Book**: Concurrency in Go
 
 ### Node.js:
