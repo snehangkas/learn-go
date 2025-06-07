@@ -41,13 +41,12 @@
 - **FastAPI**: FastAPI Documentation
 
 ### Go (Golang):
-- **Practical Go**: [Practical Go Lessons](https://www.practical-go-lessons.com/)
+
+- **Advanced Go**: [Go advanced](https://www.udemy.com/course/gobootcampwithgrpcandprotocolbuffers/)
 - **Effective Go**: Effective Go Documentation
 - **Backend Masterclass**: [Backend Master Class Golang PostgreSQL Kubernetes](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/?couponCode=LETSLEARNNOWPP)
 - **Performance**: [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#pprof)
 - **Practical Go**: [Dave Cheney's Practical Go](https://dave.cheney.net/practical-go)
-- **Backend Engineering**: [Backend Engineering with Go](https://www.udemy.com/course/backend-engineering-with-go/)
-- **Advanced Go**: [Go advanced](https://www.udemy.com/course/gobootcampwithgrpcandprotocolbuffers/)
 - **Book**: Concurrency in Go
 
 ### Node.js:
@@ -126,18 +125,7 @@
 
 ---
 
-## 6. Frontend Development
-
-### React & TypeScript:
-- **React with TypeScript**: [React and TypeScript - Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/?couponCode=CP130525)
-- **Microservices**: [Microservices with Node.js and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-- **Advanced Node**: [Advanced Node for Developers](https://www.udemy.com/course/advanced-node-for-developers/)
-- **React Projects**: [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=LEARNNOWPLANS)
-- **TypeScript**: [TypeScript Course](https://www.udemy.com/course/typescript-course/)
-
----
-
-## 7. Quick Learning Modules
+## 6. Quick Learning Modules
 
 ### Microservice Patterns (Duration: 1 day)
 - **ChatGPT Discussion**: [Microservice Patterns](https://chatgpt.com/c/67dfeb11-e9c4-8006-ac6c-b2651dc61638)
@@ -163,16 +151,7 @@
 
 ---
 
-## 8. Future Learning (Azure)
-
-### Azure Advanced:
-- **YouTube Videos**:
-  - [Azure Tutorial 1](https://www.youtube.com/watch?v=7A5cH8iqgHU)
-  - [Azure Tutorial 2](https://www.youtube.com/watch?v=BKEPkZrsFyY&list=PLdpzxOOAlwvIcxgCUyBHVOcWs0Krjx9xR&index=23)
-
----
-
-## 9. Data Structures & Algorithms (Duration: 3 months)
+## 7. Data Structures & Algorithms (Duration: 3 months)
 
 ### Python DSA Courses:
 - **Marcel Classes**: 
@@ -193,4 +172,14 @@
   - [Striver's A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
 ---
+
+--  Backlog --  
+## 8. Frontend Development
+
+### React & TypeScript:
+- **React with TypeScript**: [React and TypeScript - Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/?couponCode=CP130525)
+- **Microservices**: [Microservices with Node.js and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+- **Advanced Node**: [Advanced Node for Developers](https://www.udemy.com/course/advanced-node-for-developers/)
+- **React Projects**: [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=LEARNNOWPLANS)
+- **TypeScript**: [TypeScript Course](https://www.udemy.com/course/typescript-course/)
 
