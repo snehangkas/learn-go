@@ -28,7 +28,7 @@
 
 ### APIs & Integration:
 - **Kafka**: [Apache Kafka with Java Spring Boot](https://www.udemy.com/course/apache-kafka-with-java-spring-boot-theory-hands-on-coding/?couponCode=LEARNNOWPLANS)
-- **Elasticsearch**: [Practical Java Spring Boot REST API with Elasticsearch](https://www.udemy.com/course/practical-java-spring-boot-rest-api-with-elasticsearch/?couponCode=LEARNNOWPLANS)
+- **Elasticsearch**: [Practical Java Spring Boot REST API with Elasticsearch](https://www.udemy.com/course/elasticsearch-and-elastic-stack/?couponCode=24T2MT120625G1)
 - **REST Security**: [REST API Security with Java Spring Boot](https://www.udemy.com/course/rest-api-security-with-java-spring-boot-what-how/?couponCode=LEARNNOWPLANS)
 - **GraphQL**: [Code GraphQL Application with Java Spring Boot Netflix DGS](https://www.udemy.com/course/code-graphql-application-with-java-spring-boot-netflix-dgs/?couponCode=LEARNNOWPLANS)
 - **API Management**: [REST API Management Monitoring Analytics Kong](https://www.udemy.com/course/rest-api-management-monitoring-analytics-kong-open-source/?couponCode=LEARNNOWPLANS)
