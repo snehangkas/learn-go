@@ -73,8 +73,8 @@
 - **Books**: 
   - Kafka: The Definitive Guide
   - [Confluent Developer Courses](https://developer.confluent.io/courses/)
-- **Documentation**: [Kafka KRaft Monitoring](https://kafka.apache.org/documentation/#kraft_monitoring)
 - **Spring Boot Integration**: [Apache Kafka for Spring Boot Microservices](https://www.udemy.com/course/apache-kafka-for-spring-boot-microservices/?couponCode=ST15MT20425G3)
+- **Blog** : (https://substack.com/home/post/p-162735392)
 - **LinkedIn Update**: [Kafka Discussion](https://www.linkedin.com/feed/update/urn:li:activity:7316460035935559683?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7316460035935559683%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 ### MongoDB:
