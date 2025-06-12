@@ -102,8 +102,9 @@
   - [Docker Tutorial 2](https://www.youtube.com/watch?v=OU6xOM0SE4o)
 
 #### Kubernetes:
-- **Comprehensive Course**: [Practical DevOps Kubernetes Istio Kiali Prometheus](https://www.udemy.com/course/practical-devops-kubernetes-istio-kiali-prometheus-nginx-google-cloud/)
-- **Microservices**: [Kubernetes Microservices](https://www.udemy.com/course/kubernetes-microservices/?couponCode=ST14MT150425G3)
+- **GKE**: [Practical DevOps Kubernetes Istio Kiali Prometheus](https://www.udemy.com/course/practical-devops-kubernetes-istio-kiali-prometheus-nginx-google-cloud/)
+- **EKS**: [Kubernetes Microservices](https://www.udemy.com/course/kubernetes-microservices/?couponCode=ST14MT150425G3)
+- **AKSs**: [Azure DevOps examples](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?couponCode=LEARNNOWPLANS#instructor-1)
 - **Learn Kubernetes**: [Learn Kubernetes](https://www.udemy.com/course/learn-kubernetes/?couponCode=CP130525)
 - **CKAD**: [Certified Kubernetes Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/?couponCode=CP130525)
 
@@ -146,7 +147,7 @@
 - **GitHub Actions**: [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=CP130525)
 - **ArgoCD**: [ArgoCD](https://www.udemy.com/course/mastering-gitops-with-argo-cd) 
 ### Azure DevOps (Duration: 1 week)
-- **Azure Devops**: [Azure DevOps examples](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?couponCode=LEARNNOWPLANS#instructor-1)
+
 - **YouTube Series**: [Azure DevOps Tutorial](https://www.youtube.com/watch?v=R74bm8IGu2M&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 
 ---
