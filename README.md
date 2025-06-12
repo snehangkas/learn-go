@@ -128,11 +128,11 @@
 
 ## 6. Quick Learning Modules
 
-### Microservice Patterns (Duration: 1 day)
+### Microservice Patterns
 - **ChatGPT Discussion**: [Microservice Patterns](https://chatgpt.com/c/67dfeb11-e9c4-8006-ac6c-b2651dc61638)
 - **Microsoft Documentation**: [Azure Architecture Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
-### Generative AI (Duration: 1 week)
+### Generative AI 
 - **LangChain**: [LangChain Course](https://www.udemy.com/course/langchain/?couponCode=LEARNNOWPLANS)
 - **LangGraph**: [LangGraph Course](https://www.udemy.com/course/langgraph/?couponCode=LEARNNOWPLANS)
 - **Agentic AI**: [Complete Agentic AI Bootcamp](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/?couponCode=CP130525)
@@ -142,17 +142,17 @@
 - **FastMCP**: Framework for Model Context Protocol
 
 
-### GitHub & CI/CD (Duration: 3 days)
+### GitHub & CI/CD 
 - **Git Cheat Sheet**: [GitHub Education PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - **GitHub Actions**: [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=CP130525)
 - **ArgoCD**: [ArgoCD](https://www.udemy.com/course/mastering-gitops-with-argo-cd) 
-### Azure DevOps (Duration: 1 week)
+### Azure DevOps 
 
 - **YouTube Series**: [Azure DevOps Tutorial](https://www.youtube.com/watch?v=R74bm8IGu2M&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 
 ---
 
-## 7. Data Structures & Algorithms (Duration: 3 months)
+## 7. Data Structures & Algorithms 
 
 ### Python DSA Courses:
 - **Marcel Classes**: 
