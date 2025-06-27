@@ -27,7 +27,7 @@
 -
 
 ### APIs & Integration:
-- **Kafka**: [Apache Kafka with Java Spring Boot](https://www.udemy.com/course/apache-kafka-with-java-spring-boot-theory-hands-on-coding/?couponCode=LEARNNOWPLANS)
+- **Spring Boot Integration**: [Apache Kafka for Spring Boot Microservices](https://www.udemy.com/course/apache-kafka-for-spring-boot-microservices/?couponCode=ST15MT20425G3)
 - **Elasticsearch**: [Practical Java Spring Boot REST API with Elasticsearch](https://www.udemy.com/course/elasticsearch-and-elastic-stack/?couponCode=24T2MT120625G1)
 - **REST Security**: [REST API Security with Java Spring Boot](https://www.udemy.com/course/rest-api-security-with-java-spring-boot-what-how/?couponCode=LEARNNOWPLANS)
 - **GraphQL**: [Code GraphQL Application with Java Spring Boot Netflix DGS](https://www.udemy.com/course/code-graphql-application-with-java-spring-boot-netflix-dgs/?couponCode=LEARNNOWPLANS)
@@ -73,9 +73,7 @@
 - **Books**: 
   - Kafka: The Definitive Guide
   - [Confluent Developer Courses](https://developer.confluent.io/courses/)
-- **Spring Boot Integration**: [Apache Kafka for Spring Boot Microservices](https://www.udemy.com/course/apache-kafka-for-spring-boot-microservices/?couponCode=ST15MT20425G3)
 - **Blog** : (https://substack.com/home/post/p-162735392)
-- **LinkedIn Update**: [Kafka Discussion](https://www.linkedin.com/feed/update/urn:li:activity:7316460035935559683?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7316460035935559683%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 ### MongoDB:
 - **Official Documentation**: [MongoDB Learning Paths](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path)
