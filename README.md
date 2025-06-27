@@ -42,7 +42,6 @@
 
 ### Go (Golang):
 
-- **Advanced Go**: [Go advanced](https://www.udemy.com/course/gobootcampwithgrpcandprotocolbuffers/)
 - **Effective Go**: Effective Go Documentation
 - **Backend Masterclass**: [Backend Master Class Golang PostgreSQL Kubernetes](https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/?couponCode=LETSLEARNNOWPP)
 - **Performance**: [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#pprof)
