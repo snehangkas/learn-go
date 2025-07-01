@@ -115,7 +115,7 @@
 ### 5a. Operating Systems 
 - **Hussein Nasser**: OS Fundamentals
 - **Book**: Galvin (Operating System Concepts)
-
+- **Udemy course** : Linux deep dive (https://www.udemy.com/course/linux-crash-course)
 ### 5b. Networking 
 - **Hussein Nasser**: Networking Fundamentals
 - **Book**: Top-Down Approach (Chapters 2, 3, 4, 5, and 8)
