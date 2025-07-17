@@ -28,10 +28,8 @@
 
 ### APIs & Integration:
 - **Spring Boot Integration**: [Apache Kafka for Spring Boot Microservices](https://www.udemy.com/course/apache-kafka-for-spring-boot-microservices/?couponCode=ST15MT20425G3)
-- **Elasticsearch**: [Practical Java Spring Boot REST API with Elasticsearch](https://www.udemy.com/course/elasticsearch-and-elastic-stack/?couponCode=24T2MT120625G1)
-- **REST Security**: [REST API Security with Java Spring Boot](https://www.udemy.com/course/rest-api-security-with-java-spring-boot-what-how/?couponCode=LEARNNOWPLANS)
 - **GraphQL**: [Code GraphQL Application with Java Spring Boot Netflix DGS](https://www.udemy.com/course/code-graphql-application-with-java-spring-boot-netflix-dgs/?couponCode=LEARNNOWPLANS)
-- **API Management**: [REST API Management Monitoring Analytics Kong](https://www.udemy.com/course/rest-api-management-monitoring-analytics-kong-open-source/?couponCode=LEARNNOWPLANS)
+
 
 ### Interview Preparation:
 - **Java Spring Boot Interview Kit**: [HungryCoders Path](https://www.hungrycoders.com/path-player?courseid=java-spring-boot-interview-kit-behavioral-strategies&unit=6696684e5950f7bc6e00b4b6Unit)
@@ -48,13 +46,9 @@
 - **Practical Go**: [Dave Cheney's Practical Go](https://dave.cheney.net/practical-go)
 - **Book**: Concurrency in Go
 
-### Node.js:
-- **Node.js Internals**: [Node.js Internals and Architecture](https://www.udemy.com/course/nodejs-internals-and-architecture/?couponCode=CP130525)
+
 - **OAuth**: [Enterprise OAuth for Developers](https://www.udemy.com/course/enterprise-oauth-for-developers/?couponCode=CP130525)
 
-### General Backend:
-- **Backend Engineering**: Hussein Nasser
-- **Medium Articles**: Various backend topics
 
 ---
 
@@ -87,11 +81,7 @@
 
 ## 4. Cloud & DevOps
 
-### 4a. Cloud - AWS 
-- **Platform**: Amazon Web Services
-
-### 4b. Container Orchestration & Service Mesh 
-**Technologies**: Kubernetes, Helm, KEDA, Istio, Jaeger, Kiali, Grafana, Prometheus, ArgoCD
+### 4a. Cloud - Azure
 
 #### Docker:
 - **YouTube Videos**:
@@ -108,22 +98,8 @@
 #### Service Mesh:
 - **Istio**: [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
 
----
 
-## 5. System Fundamentals
-
-### 5a. Operating Systems 
-- **Hussein Nasser**: OS Fundamentals
-- **Book**: Galvin (Operating System Concepts)
-- **Udemy course** : Linux deep dive (https://www.udemy.com/course/linux-crash-course)
-### 5b. Networking 
-- **Hussein Nasser**: Networking Fundamentals
-- **Book**: Top-Down Approach (Chapters 2, 3, 4, 5, and 8)
-- **YouTube Channel**: Gate Smashers
-
----
-
-## 6. Quick Learning Modules
+## 5. Quick Learning Modules
 
 ### Microservice Patterns
 - **ChatGPT Discussion**: [Microservice Patterns](https://chatgpt.com/c/67dfeb11-e9c4-8006-ac6c-b2651dc61638)
@@ -149,7 +125,7 @@
 
 ---
 
-## 7. Data Structures & Algorithms 
+## 6. Data Structures & Algorithms 
 
 ### Python DSA Courses:
 - **Marcel Classes**: 
@@ -172,6 +148,16 @@
 ---
 
 --  Backlog --  
+## 5. System Fundamentals
+
+### 5a. Operating Systems 
+- **Hussein Nasser**: OS Fundamentals
+- **Book**: Galvin (Operating System Concepts)
+- **Udemy course** : Linux deep dive (https://www.udemy.com/course/linux-crash-course)
+### 5b. Networking 
+- **Hussein Nasser**: Networking Fundamentals
+- **Book**: Top-Down Approach (Chapters 2, 3, 4, 5, and 8)
+- **YouTube Channel**: Gate Smashers
 ## 8. Frontend Development
 
 ### React & TypeScript:
