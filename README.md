@@ -24,7 +24,7 @@
 ### Microservices & Spring Ecosystem:
 - **Microservices**: [Master Microservices with Spring Docker Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
 - **Spring Security**: [Spring Security Zero to Master](https://www.udemy.com/course/spring-security-zero-to-master/)
--
+- **Hungry Coder**: (https://www.hungrycoders.com/path-player?courseid=java-spring-boot-interview-kit-behavioral-strategies&unit=6696684e5950f7bc6e00b4b6Unit)
 
 ### APIs & Integration:
 - **Spring Boot Integration**: [Apache Kafka for Spring Boot Microservices](https://www.udemy.com/course/apache-kafka-for-spring-boot-microservices/?couponCode=ST15MT20425G3)
