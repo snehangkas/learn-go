@@ -26,18 +26,15 @@
 - **Spring Security**: [Spring Security Zero to Master](https://www.udemy.com/course/spring-security-zero-to-master/)
 
 
-### APIs & Integration:
-- **Spring Boot Integration**: [Apache Kafka for Spring Boot Microservices](https://www.udemy.com/course/apache-kafka-for-spring-boot-microservices/?couponCode=ST15MT20425G3)
-- **GraphQL**: [Code GraphQL Application with Java Spring Boot Netflix DGS](https://www.udemy.com/course/code-graphql-application-with-java-spring-boot-netflix-dgs/?couponCode=LEARNNOWPLANS)
-
-
 ### Interview Preparation:
 - **Java Spring Boot Interview Kit**: [HungryCoders Path](https://www.hungrycoders.com/path-player?courseid=java-spring-boot-interview-kit-behavioral-strategies&unit=6696684e5950f7bc6e00b4b6Unit)
 
 ### Python:
 - **Core Python**: [Python Core and Advanced](https://www.udemy.com/course/python-core-and-advanced/?couponCode=ST15MT20425G3)
-- **FastAPI**: FastAPI Documentation
-
+- **FastAPI**: [FastAPI - The Complete Course](https://www.udemy.com/course/fastapi-the-complete-course/)
+- **Intermediate Python**: [Memory Decorator Async Cython](https://www.udemy.com/course/intermediate-python-memory-decorator-async-cython-more/)
+- **Parallel Computing**: [Parallel Computing in Python](https://www.udemy.com/course/parallel-computing-in-python/?couponCode=ST10MT30325G2)
+  
 ### Go (Golang):
 
 - **Effective Go**: Effective Go Documentation
@@ -45,9 +42,7 @@
 - **Performance**: [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html#pprof)
 - **Practical Go**: [Dave Cheney's Practical Go](https://dave.cheney.net/practical-go)
 - **Book**: Concurrency in Go
-
-
-- **OAuth**: [Enterprise OAuth for Developers](https://www.udemy.com/course/enterprise-oauth-for-developers/?couponCode=CP130525)
+- ** Parallel computing** : [Mastering Multithreading Programming with Go](https://www.udemy.com/course/multithreading-in-go-lang/?couponCode=MT220725A)
 
 
 ---
@@ -81,7 +76,8 @@
 
 ## 4. Cloud & DevOps
 
-### 4a. Cloud - Azure
+### 4a. Cloud - 
+Azure
 
 #### Docker:
 - **YouTube Videos**:
@@ -89,8 +85,6 @@
   - [Docker Tutorial 2](https://www.youtube.com/watch?v=OU6xOM0SE4o)
 
 #### Kubernetes:
-- **GKE**: [Practical DevOps Kubernetes Istio Kiali Prometheus](https://www.udemy.com/course/practical-devops-kubernetes-istio-kiali-prometheus-nginx-google-cloud/)
-- **EKS**: [Kubernetes Microservices](https://www.udemy.com/course/kubernetes-microservices/?couponCode=ST14MT150425G3)
 - **AKSs**: [Azure DevOps examples](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?couponCode=LEARNNOWPLANS#instructor-1)
 - **Learn Kubernetes**: [Learn Kubernetes](https://www.udemy.com/course/learn-kubernetes/?couponCode=CP130525)
 - **CKAD**: [Certified Kubernetes Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/?couponCode=CP130525)
@@ -132,11 +126,6 @@
   - [Data Structures Algorithms Python](https://marcelclasses.udemy.com/course/data-structures-algorithms-python)
   - [Data Structures and Algorithms Bootcamp](https://marcelclasses.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
   - [Python Data Structures Algorithms](https://marcelclasses.udemy.com/course/python-data-structures-algorithms/)
-
-### Advanced Python:
-- **Intermediate Python**: [Memory Decorator Async Cython](https://www.udemy.com/course/intermediate-python-memory-decorator-async-cython-more/)
-- **Parallel Computing**: [Parallel Computing in Python](https://www.udemy.com/course/parallel-computing-in-python/?couponCode=ST10MT30325G2)
-- **FastAPI**: [FastAPI - The Complete Course](https://www.udemy.com/course/fastapi-the-complete-course/)
 
 ### Practice Resources:
 - **Google Tech Dev Guide**: [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-8)
