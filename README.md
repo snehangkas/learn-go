@@ -46,10 +46,14 @@
 - **Book**: Concurrency in Go
 - ** Parallel computing** : [Mastering Multithreading Programming with Go](https://www.udemy.com/course/multithreading-in-go-lang/?couponCode=MT220725A)
 
+ ### Microservice Patterns
+- **ChatGPT Discussion**: [Microservice Patterns](https://chatgpt.com/c/67dfeb11-e9c4-8006-ac6c-b2651dc61638)
+- **Microsoft Documentation**: [Azure Architecture Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+
 
 ---
 
-## 3. Data and Database 
+## 3. Database 
 
 ### Database Fundamentals:
 - **Hussein Nasser**: Fundamentals of Database
@@ -85,6 +89,14 @@ Azure
 - **YouTube Videos**:
   - [Docker Tutorial 1](https://www.youtube.com/watch?v=pg19Z8LL06w)
   - [Docker Tutorial 2](https://www.youtube.com/watch?v=OU6xOM0SE4o)
+ 
+### GitHub & CI/CD 
+- **Git Cheat Sheet**: [GitHub Education PDF](https://education.github.com/git-cheat-sheet-education.pdf)
+- **GitHub Actions**: [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=CP130525)
+- **ArgoCD**: [ArgoCD](https://www.udemy.com/course/mastering-gitops-with-argo-cd) 
+### Azure DevOps 
+
+- **YouTube Series**: [Azure DevOps Tutorial](https://www.youtube.com/watch?v=R74bm8IGu2M&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 
 #### Kubernetes:
 - **AKSs**: [Azure DevOps examples](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?couponCode=LEARNNOWPLANS#instructor-1)
@@ -96,12 +108,7 @@ Azure
 - **Istio**: [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
 
 
-## 5. Quick Learning Modules
-
-### Microservice Patterns
-- **ChatGPT Discussion**: [Microservice Patterns](https://chatgpt.com/c/67dfeb11-e9c4-8006-ac6c-b2651dc61638)
-- **Microsoft Documentation**: [Azure Architecture Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
-
+## 5. AI
 ### Generative AI 
 - **LangChain**: [LangChain Course](https://www.udemy.com/course/langchain/?couponCode=LEARNNOWPLANS)
 - **LangGraph**: [LangGraph Course](https://www.udemy.com/course/langgraph/?couponCode=LEARNNOWPLANS)
@@ -112,13 +119,7 @@ Azure
 - **FastMCP**: Framework for Model Context Protocol
 
 
-### GitHub & CI/CD 
-- **Git Cheat Sheet**: [GitHub Education PDF](https://education.github.com/git-cheat-sheet-education.pdf)
-- **GitHub Actions**: [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/?couponCode=CP130525)
-- **ArgoCD**: [ArgoCD](https://www.udemy.com/course/mastering-gitops-with-argo-cd) 
-### Azure DevOps 
 
-- **YouTube Series**: [Azure DevOps Tutorial](https://www.youtube.com/watch?v=R74bm8IGu2M&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 
 ---
 
@@ -137,10 +138,8 @@ Azure
   - [DSA Course Playlist](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
   - [Striver's A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
----
 
---  Backlog --  
-## 5. System Fundamentals
+## 7. System Fundamentals
 
 ### 5a. Operating Systems 
 - **Hussein Nasser**: OS Fundamentals
@@ -150,12 +149,5 @@ Azure
 - **Hussein Nasser**: Networking Fundamentals
 - **Book**: Top-Down Approach (Chapters 2, 3, 4, 5, and 8)
 - **YouTube Channel**: Gate Smashers
-## 8. Frontend Development
 
-### React & TypeScript:
-- **React with TypeScript**: [React and TypeScript - Build a Portfolio Project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/?couponCode=CP130525)
-- **Microservices**: [Microservices with Node.js and React](https://www.udemy.com/course/microservices-with-node-js-and-react/)
-- **Advanced Node**: [Advanced Node for Developers](https://www.udemy.com/course/advanced-node-for-developers/)
-- **React Projects**: [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=LEARNNOWPLANS)
-- **TypeScript**: [TypeScript Course](https://www.udemy.com/course/typescript-course/)
 
