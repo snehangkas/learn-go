@@ -24,6 +24,8 @@
 ### Microservices & Spring Ecosystem:
 - **Microservices**: [Master Microservices with Spring Docker Kubernetes](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
 - **Spring Security**: [Spring Security Zero to Master](https://www.udemy.com/course/spring-security-zero-to-master/)
+                                                        (https://www.udemy.com/course/master-saml-with-okta/?couponCode=MT240725CTRL)
+                                                        (http://udemy.com/course/advanced-openid-connect/?couponCode=MT240725CTRL)
 
 
 ### Interview Preparation:
