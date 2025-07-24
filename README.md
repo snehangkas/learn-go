@@ -1,6 +1,17 @@
 # Learning Resources Study Plan
 
-## 1. System Design (Duration: Everyday)
+## Fundamentals (Everyday)
+
+### 1a. Operating Systems 
+- **Hussein Nasser**: OS Fundamentals
+- **Book**: Galvin (Operating System Concepts)
+- **Udemy course** : Linux deep dive (https://www.udemy.com/course/linux-crash-course)
+  
+### 1b. Networking 
+- **Hussein Nasser**: Networking Fundamentals
+- **Book**: Top-Down Approach (Chapters 2, 3, 4, 5, and 8)
+
+### 1c. System Design (Duration: Everyday)
 
 ### Resources:
 - **GitHub Repository**: Ashish Pratap Singh - [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
@@ -11,6 +22,18 @@
   - Alex Xu Book
   - Hello Interview Youtube
 
+### Python DSA Courses:
+- **Marcel Classes**: 
+  - [Data Structures Algorithms Python](https://marcelclasses.udemy.com/course/data-structures-algorithms-python)
+  - [Data Structures and Algorithms Bootcamp](https://marcelclasses.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
+  - [Python Data Structures Algorithms](https://marcelclasses.udemy.com/course/python-data-structures-algorithms/)
+
+### Practice Resources:
+- **Google Tech Dev Guide**: [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-8)
+- **NeetCode 150**: [YouTube Playlist](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr)
+- **TakeUForward (TUF)**:
+  - [DSA Course Playlist](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
+  - [Striver's A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 ---
 
 ## 2. Backend Development 
@@ -108,11 +131,11 @@ Azure
 - **Istio**: [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
 
 
-## 5. AI
+## 5. AI 
 ### Generative AI 
 - **LangChain**: [LangChain Course](https://www.udemy.com/course/langchain/?couponCode=LEARNNOWPLANS)
 - **LangGraph**: [LangGraph Course](https://www.udemy.com/course/langgraph/?couponCode=LEARNNOWPLANS)
-- **Agentic AI**: [Complete Agentic AI Bootcamp](https://www.udemy.com/course/complete-agentic-ai-bootcamp-with-langgraph-and-langchain/?couponCode=CP130525)
+- **Agentic AI**: [Complete Agentic AI Bootcamp](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=MT240725CTRL)
 - **Model Context Protocol**: 
   - [Course 1](https://www.udemy.com/course/modelcontextprotocol/?couponCode=ST19MT280525G3)
   - [Course 2](https://www.udemy.com/course/model-context-protocol/?couponCode=ST19MT280525G3)
@@ -121,33 +144,5 @@ Azure
 
 
 
----
-
-## 6. Data Structures & Algorithms 
-
-### Python DSA Courses:
-- **Marcel Classes**: 
-  - [Data Structures Algorithms Python](https://marcelclasses.udemy.com/course/data-structures-algorithms-python)
-  - [Data Structures and Algorithms Bootcamp](https://marcelclasses.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
-  - [Python Data Structures Algorithms](https://marcelclasses.udemy.com/course/python-data-structures-algorithms/)
-
-### Practice Resources:
-- **Google Tech Dev Guide**: [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-8)
-- **NeetCode 150**: [YouTube Playlist](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr)
-- **TakeUForward (TUF)**:
-  - [DSA Course Playlist](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
-  - [Striver's A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
-
-
-## 7. System Fundamentals
-
-### 5a. Operating Systems 
-- **Hussein Nasser**: OS Fundamentals
-- **Book**: Galvin (Operating System Concepts)
-- **Udemy course** : Linux deep dive (https://www.udemy.com/course/linux-crash-course)
-### 5b. Networking 
-- **Hussein Nasser**: Networking Fundamentals
-- **Book**: Top-Down Approach (Chapters 2, 3, 4, 5, and 8)
-- **YouTube Channel**: Gate Smashers
 
 
