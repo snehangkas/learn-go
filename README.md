@@ -130,6 +130,10 @@ Azure
 #### Service Mesh:
 - **Istio**: [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
 
+#### Nginx and ingress controller:
+- ** Nginx** -https://tcsglobal.udemy.com/course/nginx-crash-course/
+- ** Advanced AKS** - https://tcsglobal.udemy.com/course/learn-aks-network-security/
+
 
 ## 5. AI 
 ### Generative AI 
