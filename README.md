@@ -1,4 +1,4 @@
-y# Learning Resources Study Plan
+# Learning Resources Study Plan
 
 ## Fundamentals (Everyday)
 
