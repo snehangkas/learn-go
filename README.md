@@ -127,6 +127,7 @@ Azure
 - **CKAD**: [Certified Kubernetes Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/?couponCode=CP130525)
 
 - Piyush Sachdeva
+- Abhishek Veeramala
 - **Cloud Native stack** [Microservice](https://www.udemy.com/course/cloud-native-microservices-kubernetes-service-mesh-cicd/?couponCode=KEEPLEARNING)
 
 #### Service Mesh:
