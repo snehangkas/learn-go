@@ -27,6 +27,7 @@
   - [Data Structures Algorithms Python](https://marcelclasses.udemy.com/course/data-structures-algorithms-python)
   - [Data Structures and Algorithms Bootcamp](https://marcelclasses.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
   - [Python Data Structures Algorithms](https://marcelclasses.udemy.com/course/python-data-structures-algorithms/)
+  - Cracking coding interview book
 
 ### Practice Resources:
 - **Google Tech Dev Guide**: [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-8)
@@ -59,6 +60,7 @@
 - **FastAPI**: [FastAPI - The Complete Course](https://www.udemy.com/course/fastapi-the-complete-course/)
 - **Intermediate Python**: [Memory Decorator Async Cython](https://www.udemy.com/course/intermediate-python-memory-decorator-async-cython-more/)
 - **Parallel Computing**: [Parallel Computing in Python](https://www.udemy.com/course/parallel-computing-in-python/?couponCode=ST10MT30325G2)
+- FOllow bookmark resources
   
 ### Go (Golang):
 
@@ -79,7 +81,9 @@
 ## 3. Database 
 
 ### Database Fundamentals:
+
 - **Hussein Nasser**: Fundamentals of Database
+- Database internals book
 
 ### PostgreSQL:
 - **Stephen Grider**: [SQL and PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/)
@@ -106,7 +110,7 @@
 ## 4. Cloud & DevOps
 
 ### 4a. Cloud - 
-Azure
+Azure - John Savill, Udemy courses. MS learn
 
 #### Docker:
 - **YouTube Videos**:
@@ -134,22 +138,10 @@ Azure
 - **Istio**: [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
 
 #### Nginx and ingress controller:
-- ** Nginx** -https://tcsglobal.udemy.com/course/nginx-crash-course/
-- ** Advanced AKS** - https://tcsglobal.udemy.com/course/learn-aks-network-security/
+- ** Nginx** -https://udemy.com/course/nginx-crash-course/
+- ** Advanced AKS** - https://udemy.com/course/learn-aks-network-security/
 
 
 ## 5. AI 
 ### Generative AI 
-- **LangChain**: [LangChain Course](https://www.udemy.com/course/langchain/?couponCode=LEARNNOWPLANS)
-- **LangGraph**: [LangGraph Course](https://www.udemy.com/course/langgraph/?couponCode=LEARNNOWPLANS)
-- **Agentic AI**: [Complete Agentic AI Bootcamp](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=MT240725CTRL)
-- **Model Context Protocol**: 
-  - [Course 1](https://www.udemy.com/course/modelcontextprotocol/?couponCode=ST19MT280525G3)
-  - [Course 2](https://www.udemy.com/course/model-context-protocol/?couponCode=ST19MT280525G3)
-- **FastMCP**: Framework for Model Context Protocol
-
-
-
-
-
-
+Follow bookmark
