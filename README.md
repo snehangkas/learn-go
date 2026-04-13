@@ -24,9 +24,9 @@
 
 ### Python DSA Courses:
 - **Marcel Classes**: 
-  - [Data Structures Algorithms Python](https://marcelclasses.udemy.com/course/data-structures-algorithms-python)
-  - [Data Structures and Algorithms Bootcamp](https://marcelclasses.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
-  - [Python Data Structures Algorithms](https://marcelclasses.udemy.com/course/python-data-structures-algorithms/)
+  - [Data Structures Algorithms Python](https://udemy.com/course/data-structures-algorithms-python)
+  - [Data Structures and Algorithms Bootcamp](https://udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
+  - [Python Data Structures Algorithms](https://udemy.com/course/python-data-structures-algorithms/)
   - Cracking coding interview book
 
 ### Practice Resources:
