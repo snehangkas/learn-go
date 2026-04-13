@@ -40,7 +40,6 @@
 ## 2. Backend Development 
 
 ### Java & Spring Boot:
-- **Core Java**: [Java Basics to Advanced](https://udemy.com/course/java_basics_to_advanced/)
 - **Spring Boot**: [Spring Boot Course](https://udemy.com/course/spring_boot/)
 - **Performance**: [Java Application Performance and Memory Management](https://www.udemy.com/course/java-application-performance-and-memory-management)
 - **Concurrency**: [Multithreading and Parallel Computing in Java](https://www.udemy.com/course/multithreading-and-parallel-computing-in-java/?couponCode=ST21MT61124)
