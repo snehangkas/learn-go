@@ -31,7 +31,7 @@
   - Cracking coding interview book
 
 ### Practice Resources:
-- **Google Tech Dev Guide**: [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/#sequence-8)
+
 - **NeetCode 150**: [YouTube Playlist](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr)
 - **TakeUForward (TUF)**:
   - [DSA Course Playlist](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
