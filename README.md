@@ -21,6 +21,7 @@
   - Design Data Intensive Applications
   - Alex Xu Book
   - Hello Interview Youtube
+  - DesignGurus.io
 
 ### Python DSA Courses:
 - **Marcel Classes**: 
