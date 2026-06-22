@@ -86,6 +86,7 @@
 
 - **Hussein Nasser**: Fundamentals of Database
 - Database internals book
+- Database system concepts
 
 ### PostgreSQL:
 - **Stephen Grider**: [SQL and PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/)
