@@ -5,7 +5,6 @@
 ### 1a. Operating Systems 
 - **Hussein Nasser**: OS Fundamentals
 - **Book**: Galvin (Operating System Concepts)
-- **Udemy course** : Linux deep dive (https://www.udemy.com/course/linux-crash-course)
   
 ### 1b. Networking 
 - **Hussein Nasser**: Networking Fundamentals
@@ -14,14 +13,10 @@
 ### 1c. System Design (Duration: Everyday)
 
 ### Resources:
-- **GitHub Repository**: Ashish Pratap Singh - [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)
-- **YouTube Channel**: ByteByteGo
+- **GitHub Repository**: Ashish Pratap Singh - (https://algomaster.io/)
 - **Books**: 
-  - Building Secure and Reliable Systems
   - Design Data Intensive Applications
   - Alex Xu Book
-  - Hello Interview Youtube
-  - DesignGurus.io
 
 ### Python DSA Courses:
 - **Marcel Classes**: 
@@ -29,21 +24,11 @@
   - [Data Structures and Algorithms Bootcamp](https://udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
   - [Python Data Structures Algorithms](https://udemy.com/course/python-data-structures-algorithms/)
   - Cracking coding interview book
-  - Discrete maths rosen book
-  - CLRS Algorithm book
 
-### Practice Resources:
-
-- **NeetCode 150**: [YouTube Playlist](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLPe9IkX86X3y5m_MvtNu2ughxsvkqUNKr)
-- **TakeUForward (TUF)**:
-  - [DSA Course Playlist](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
-  - [Striver's A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
----
 
 ## 2. Backend Development 
 
 ### Java & Spring Boot:
-- **Spring Boot**: [Spring Boot Course](https://udemy.com/course/spring_boot/)
 - **Performance**: [Java Application Performance and Memory Management](https://www.udemy.com/course/java-application-performance-and-memory-management)
 - **Concurrency**: [Multithreading and Parallel Computing in Java](https://www.udemy.com/course/multithreading-and-parallel-computing-in-java/?couponCode=ST21MT61124)
 
@@ -85,28 +70,19 @@
 ### Database Fundamentals:
 
 - **Hussein Nasser**: Fundamentals of Database
-- Database internals book
-- Database system concepts
 
 ### PostgreSQL:
 - **Stephen Grider**: [SQL and PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/)
 - **Book**: PostgreSQL Internals
 
 ### Apache Kafka:
-- **100 Days of Kafka**: Learning Program
-- **Books**: 
-  - Kafka: The Definitive Guide
   - [Confluent Developer Courses](https://developer.confluent.io/courses/)
 - **Blog** : (https://substack.com/home/post/p-162735392)
 
-### MongoDB:
-- **Official Documentation**: [MongoDB Learning Paths](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path)
-- **Database Admin Path**: [MongoDB Database Admin Self-Managed](https://learn.mongodb.com/learning-paths/mongodb-database-admin-self-managed-path)
 
 ### Redis:
 - **Redis University**: Official Redis Training
 - **Complete Guide**: [Redis - The Complete Developer's Guide](https://www.udemy.com/course/redis-the-complete-developers-guide-p/?couponCode=ST15MT20425G3)
-- **CMU**: Carnegie Mellon University Resources
 
 ---
 
@@ -132,17 +108,13 @@ Azure - John Savill, Udemy courses. MS learn
 - **AKSs**: [Azure DevOps examples](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?couponCode=LEARNNOWPLANS#instructor-1)
 - **Learn Kubernetes**: [Learn Kubernetes](https://www.udemy.com/course/learn-kubernetes/?couponCode=CP130525)
 - **CKAD**: [Certified Kubernetes Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/?couponCode=CP130525)
-- **Golden Kubestranaut**: KodeKloud
+- ** Kubestranaut**: KodeKloud
 - Piyush Sachdeva
 - Abhishek Veeramala
 - **Cloud Native stack** [Microservice](https://www.udemy.com/course/cloud-native-microservices-kubernetes-service-mesh-cicd/?couponCode=KEEPLEARNING)
 
 #### Service Mesh:
 - **Istio**: [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes/)
-
-#### Nginx and ingress controller:
-- ** Nginx** -https://udemy.com/course/nginx-crash-course/
-- ** Advanced AKS** - https://udemy.com/course/learn-aks-network-security/
 
 
 ## 5. AI 
